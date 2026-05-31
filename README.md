@@ -40,4 +40,6 @@
 
 
 <h2 align="left">❤️ Let's get connected:</h2> 
-[![LinkedIn Badge](https://img.shields.io/badge/-Aye%20Nyein%20San-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aye-nyein-san-72a212240/)
+<a href="https://www.linkedin.com/in/aye-nyein-san-72a212240/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Aye%20Nyein%20San-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
