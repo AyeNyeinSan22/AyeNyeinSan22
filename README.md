@@ -3,7 +3,7 @@
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Aye Nyein, Full Stack Web Developer: Computer Engineering Student<br>
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWUyMTgycjY4ZXBzb3h5ZnQ5bjAxajBienhzNTg0aDdiYjdpc3l4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
