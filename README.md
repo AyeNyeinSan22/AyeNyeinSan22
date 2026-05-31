@@ -29,12 +29,12 @@
 
 
 
-🎓 Computer Engineering Student at Batangas State University
-💻 Full Stack Developer passionate about building web applications
-🤖 Exploring Artificial Intelligence & Machine Learning
-☁️ Learning Google Cloud and modern software technologies
-🏆 Grand Finalist — Technofusion 2026 Hackathon Challenge
-🚀 Always eager to learn, build, and collaborate
+🎓 Computer Engineering Student at Batangas State University <br/>
+💻 Full Stack Developer passionate about building web applications <br/>
+🤖 Exploring Artificial Intelligence & Machine Learning <br/>
+☁️ Learning Google Cloud and modern software technologies <br/>
+🏆 Grand Finalist — Technofusion 2026 Hackathon Challenge <br/>
+🚀 Always eager to learn, build, and collaborate <br/>
 
 
 
