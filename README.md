@@ -28,7 +28,7 @@
 
 
 
-🎓 Computer Engineering Student at Batangas State University <br/>
+🎓 Computer Engineering Student at Batangas State University, Philippines<br/>
 💻 Full Stack Developer passionate about building web applications <br/>
 🤖 Exploring Artificial Intelligence & Machine Learning <br/>
 ☁️ Learning Google Cloud and modern software technologies <br/>
