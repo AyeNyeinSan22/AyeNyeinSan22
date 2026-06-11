@@ -2,7 +2,7 @@
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Aye Nyein,<br>
-  A passionate Computer Engineering student who loves coding, exploring AI, and building projects that create real-world impact.
+  <h5> A passionate Computer Engineering student who loves coding, exploring AI, and building projects that create real-world impact.</h5>
   <br>
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWUyMTgycjY4ZXBzb3h5ZnQ5bjAxajBienhzNTg0aDdiYjdpc3l4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" alt="Coder GIF" width="500">
  </abc>
