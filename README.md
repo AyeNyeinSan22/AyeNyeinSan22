@@ -32,7 +32,6 @@
 💻 Full Stack Developer passionate about building web applications <br/>
 🤖 Exploring Artificial Intelligence & Machine Learning <br/>
 ☁️ Learning Google Cloud and modern software technologies <br/>
-🏆 Grand Finalist — Technofusion 2026 Hackathon Challenge <br/>
 🚀 Always eager to learn, build, and collaborate <br/>
 
 
